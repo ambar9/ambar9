@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Science projects**
 
-- 👨‍💻 All of my projects are available at [here!](here!)
+- 👨‍💻 All of my projects are available at [here!](https://ambar9.github.io/MY-Personal-Portfolio/)
 
 - 💬 Ask me about **Data Analysis, SQL, Python, Tableau**
 
